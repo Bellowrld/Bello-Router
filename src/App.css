@@ -6,13 +6,11 @@
 /* Styling for the App component nav element
 and Course component course-nav div */
 .App nav, .courses-nav, .contact-nav{
-  background: #47beba;
+  background: #e25ec2;
   height: 8vh;
   min-width: 600px;
   text-align: center;
   padding-top: 10px;
-  border-radius: ;
-  border-bottom: 2px solid black;
   }
   
   /* Styling for App component nav element anchor
@@ -23,13 +21,13 @@ and Course component course-nav div */
   font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
-  color: #2f8d46;
+  color: #ffffff;
   }
   
   /* Styling for Course component
   course-nav div anchor tag */
   .courses-nav a{
-  color: rgb(59, 117, 241);
+  color: white;
   }
   
   /* Styling for the Home component main div */
