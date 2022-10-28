@@ -40,7 +40,7 @@ and Course component course-nav div */
   flex-direction: column;
   align-items: center;
   gap: 15px;
-  background-color: lightgreen;
+  background: linear-gradient(#fbc0e0,#cee9fc);
   }
   
   /* Styling for the Search & List component main div */
@@ -48,6 +48,6 @@ and Course component course-nav div */
   width: 50%;
   height: 40%;
   padding: 100px;
-  background-color: whitesmoke;
+  background-color: #55b0e4;
   }
   
